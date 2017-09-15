@@ -1,0 +1,6 @@
+D:\C#\ReversePolishCalc\ReversePolishCalc\bin\Debug\ReversePolishCalc.exe.config
+D:\C#\ReversePolishCalc\ReversePolishCalc\bin\Debug\ReversePolishCalc.exe
+D:\C#\ReversePolishCalc\ReversePolishCalc\bin\Debug\ReversePolishCalc.pdb
+D:\C#\ReversePolishCalc\ReversePolishCalc\obj\Debug\ReversePolishCalc.csprojResolveAssemblyReference.cache
+D:\C#\ReversePolishCalc\ReversePolishCalc\obj\Debug\ReversePolishCalc.exe
+D:\C#\ReversePolishCalc\ReversePolishCalc\obj\Debug\ReversePolishCalc.pdb
